@@ -1,1 +1,1 @@
-There is wayyyyy too much crap in the slides that my faculty shares, so I made my own notes. Thanks to Geeks for Geeks!
+My faculty's slides have way too much filler, so I made my own notes. Thanks to GeeksforGeeks!
